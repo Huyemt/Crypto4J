@@ -42,7 +42,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.rifle.Main</mainClass>
+                            <mainClass>org.crypto4j.Crypto4J</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
