@@ -4,3 +4,4 @@
 * [AES](species/AES.md)
 * [RSA](species/RSA.md)
 * [Base64](species/Base64.md)
+* [Unicode](species/Unicode.md)
