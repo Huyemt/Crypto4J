@@ -1,5 +1,6 @@
 ## [Back to Development Manual](../start.md)
 ***
+```java
 import crypto4j.Crypto4J;
 
 import java.nio.charset.StandardCharsets;
