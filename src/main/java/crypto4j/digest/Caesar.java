@@ -77,7 +77,10 @@ public class Caesar {
         return decrypt(content.toCharArray(), new OffsetKey());
     }
 
-
+    /**
+     * 密钥的父类抽象
+     * The superclass abstraction of the key
+     */
     public static abstract class Key {
         public abstract String formatIt();
 
